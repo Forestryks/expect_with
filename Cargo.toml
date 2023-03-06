@@ -1,0 +1,13 @@
+[package]
+name = "expect_with"
+version = "1.0.0"
+authors = ["Andrei Odintsov <forestryks1@gmail.com>"]
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/Forestryks/expect_with"
+repository = "https://github.com/Forestryks/expect_with"
+description = "Expect with formatting"
+readme = "README.md"
+keywords = ["panic", "errors", "expect"]
+edition = "2021"
+
+[dependencies]
