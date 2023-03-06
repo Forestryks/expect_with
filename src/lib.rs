@@ -6,7 +6,7 @@ use std::fmt::Debug;
 
 /// Adds `expect_with()`. It is implemented for any `Option<T>` and `Result<T, E>` where `E` is `Debug` (all std types that has `expect` method).
 ///
-/// This method functions exactly the same as `except()` but evaluates error message only when actual error occurred.
+/// This method functions exactly the same as `except()` but evaluates error message only when actual error occurres.
 ///
 /// # Example
 /// ```rust
